@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "tt-mini-zalo-app-action-book",
+    "headerTitle": "tt-mini-zalo-app-action-book",
+    "headerColor": "#1843EF",
+    "textColor": "white",
+    "statusBarColor": "#1843EF",
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}

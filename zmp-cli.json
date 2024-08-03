@@ -1,0 +1,17 @@
+{
+  "cwd": "/Users/tung/Desktop/Project/github/tt-mini-zalo-app-action-book",
+  "newProject": true,
+  "name": "tt-mini-zalo-app-action-book",
+  "package": "zmp-ui",
+  "framework": "react-typescript",
+  "cssPreProcessor": "scss",
+  "template": "blank",
+  "includeTailwind": false,
+  "theming": {
+    "color": "#007aff",
+    "darkTheme": false,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "stateManagement": "recoil"
+}
